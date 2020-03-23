@@ -27,38 +27,38 @@ The dotfiles contain some config files for my tmux, vim and some key bindings(fo
 
   ## Here's a screenshot to "bash.bashrc" config for termux
 
-   ![screenshot](images/Screenshot_2020-01-24-16-51-52.png)
+   ![screenshot](screenshots/Screenshot_2020-01-24-16-51-52.png)
 
 
   ## Here's some screenshots to my gruvbox-theme inspired termux terminal
 
-   ![screenshot](1.png)
-   ![screenshot](2.png)
-   ![screenshot](3.png)
-   ![screenshot](4.png)
-   ![screenshot](5.png)
+   ![screenshot](screenshots/1.png)
+   ![screenshot](screenshots/2.png)
+   ![screenshot](screenshots/3.png)
+   ![screenshot](screenshots/4.png)
+   ![screenshot](screenshots/5.png)
 
   ## Night-owl theme
 
-   ![screenshot](10.png)
-   ![screenshot](11.png)
-   ![screenshot](12.png)
+   ![screenshot](screenshots/10.png)
+   ![screenshot](screenshots/11.png)
+   ![screenshot](screenshots/12.png)
    
  ## This is what my terminal looks like as of 23rd March, 2020, 17:30
 	
-  ![screenshot](j1.png) My bashrc
+  ![screenshot](screenshots/j1.png) My bashrc
   
-  ![screenshot](j2.png)
+  ![screenshot](screenshots/j2.png)
   
-  ![screenshot](j4.png)
+  ![screenshot](screenshots/j4.png)
 
-  ![screenshot](mutt2.png) mutt email
+  ![screenshot](screenshots/mutt2.png) mutt email
   
-  ![screenshot](mutt.png)mutt email
+  ![screenshot](screenshots/mutt.png)mutt email
   
-  ![screenshot](home.png) terminal home
+  ![screenshot](screenshots/home.png) terminal home
   
-  ![screenshot](w3m.png) w3m wikipedia
+  ![screenshot](screenshots/w3m.png) w3m wikipedia
   
 
  ## I am using mutt as my email client and w3m as a terminal browser
