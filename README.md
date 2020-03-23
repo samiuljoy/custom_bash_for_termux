@@ -54,8 +54,6 @@ The dotfiles contain some config files for my tmux, vim and some key bindings(fo
   
   ![screenshot](home.png)
   
-  ![screenshot](mutt2.png) Mutt email client
-  
   ![screenshot](w3m.png) w3m
   
 
