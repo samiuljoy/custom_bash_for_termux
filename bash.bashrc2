@@ -32,7 +32,6 @@ printf '\033[6 q'
 #
 PS1='$ '
 #
-#PS1="\[\033[1;1m\][\w] \n\[\033[2;36m\]$ \[\033[0m\]"
 
 #My aliases
 alias open="termux-open"
