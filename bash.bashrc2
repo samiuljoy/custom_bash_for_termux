@@ -29,9 +29,9 @@ echo -ne '\e]11;#1c1c1c\e\\'
 
 #Changes the cursor from block to I-beam
 printf '\033[6 q'
-
+#
 PS1='$ '
-
+#
 #PS1="\[\033[1;1m\][\w] \n\[\033[2;36m\]$ \[\033[0m\]"
 
 #My aliases
