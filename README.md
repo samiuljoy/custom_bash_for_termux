@@ -47,15 +47,15 @@ The dotfiles contain some config files for my tmux, vim and some key bindings(fo
    ![screenshot](11.png)
    ![screenshot](12.png)
    
-## This is what my termux looks like as of 23rd March, 2020, 17:30
+ ## This is what my termux looks like as of 23rd March, 2020, 17:30
 	
-    ![screenshot](j1.png)
-    ![screenshot](j2.png)
-    ![screenshot](j4.png)
-    ![screenshot](home.png)
-    ![screenshot](mutt2.png)
-    ![screenshot](mutt.png)
-    ![screenshot](w3m.png)
+  ![screenshot](j1.png)
+  ![screenshot](j2.png)
+  ![screenshot](j4.png)
+  ![screenshot](home.png)
+  ![screenshot](mutt2.png)
+  ![screenshot](mutt.png)
+  ![screenshot](w3m.png)
 
-## I am using mutt as my email client and w3m as a terminal browser
+ ## I am using mutt as my email client and w3m as a terminal browser
 ## If you like what you see, feel free to support me!, you can email me at joy.samiul46@gmail.com
