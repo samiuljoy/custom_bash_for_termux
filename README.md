@@ -33,13 +33,9 @@ The dotfiles contain some config files for my tmux, vim and some key bindings(fo
   ## Here's some screenshots to my gruvbox-theme termux terminal
 
    ![screenshot](1.png)
-
    ![screenshot](2.png)
-
    ![screenshot](3.png)
-
    ![screenshot](4.png)
-
    ![screenshot](5.png)
 
   ## Night-owl theme
@@ -50,13 +46,18 @@ The dotfiles contain some config files for my tmux, vim and some key bindings(fo
    
  ## This is what my termux looks like as of 23rd March, 2020, 17:30
 	
-  ![screenshot](j1.png)
+  ![screenshot](j1.png) My bashrc
+  
   ![screenshot](j2.png)
+  
   ![screenshot](j4.png)
+  
   ![screenshot](home.png)
-  ![screenshot](mutt2.png)
-  ![screenshot](mutt.png)
-  ![screenshot](w3m.png)
+  
+  ![screenshot](mutt2.png) Mutt email client
+  
+  ![screenshot](w3m.png) w3m
+  
 
  ## I am using mutt as my email client and w3m as a terminal browser
 ## If you like what you see, feel free to support me!, you can email me at joy.samiul46@gmail.com
