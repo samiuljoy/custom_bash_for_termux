@@ -25,7 +25,7 @@ My vim plugins are included in the /dotfiles directory
 ## dotfiles
 The dotfiles contain some config files for my tmux, vim and some key bindings(for vim) I'm using for my bash atm.
 
-  ## Here's a screenshot to bash.bashrc
+  ## Here's a screenshot to "bash.bashrc" config for termux looks like
 
    ![screenshot](Screenshot_2020-01-24-16-51-52.png)
 
@@ -44,17 +44,21 @@ The dotfiles contain some config files for my tmux, vim and some key bindings(fo
    ![screenshot](11.png)
    ![screenshot](12.png)
    
- ## This is what my termux looks like as of 23rd March, 2020, 17:30
+ ## This is what my terminal looks like as of 23rd March, 2020, 17:30
 	
   ![screenshot](j1.png) My bashrc
   
   ![screenshot](j2.png)
   
   ![screenshot](j4.png)
+
+  ![screenshot](mutt2.png) mutt email
   
-  ![screenshot](home.png)
+  ![screenshot](mutt.png)mutt email
   
-  ![screenshot](w3m.png) w3m
+  ![screenshot](home.png) terminal home
+  
+  ![screenshot](w3m.png) w3m wikipedia
   
 
  ## I am using mutt as my email client and w3m as a terminal browser
