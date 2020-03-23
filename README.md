@@ -1,11 +1,12 @@
 # A bit of cutomization for the termux Bourne Again Shell(BASH), and some easy binaries.sh
 
-## bash.bashrc (Inspired by gruvbox colorscheme)
+## bash.bashrc 
 This here is a little modification to the bash.bashrc file in the /usr/etc/bash.bashrc. Enjoy tweaking with these c:
-Replace or copy the contents to your usr/etc/bash.bashrc. This theme was inspired by gruvbox theme from vim
+Replace or copy the contents to your usr/etc/bash.bashrc.
 
-## bash.bashrc2
-This bash.bashrc2 is what my bash.bashrc looks like. It's inspired by gruvbox.vim theme from vim editor.Added couple of modifications like changing the default cursor to I-beam and tons of aliases. 
+## bash.bashrc2 (Inspired by gruvbox colorscheme)
+This bash.bashrc2 is what my bash.bashrc looks like. It's inspired by gruvbox.vim theme from vim editor.Added couple of modifications like changing the default cursor to I-beam and tons of aliases. This theme was inspired by gruvbox theme from vim
+
 
 ## bash.bashrc3(Night Owl theme)
 Yet another update, custom prompts and perhaps a solarized version of my own, Inspired by iceberg.vim and camo.vim theme from vim. I actually made a combination of these 2 colorschemes in my dotfiles/.vimrc and came up with a new colorscheme, and I actually quite like it to be honest.
@@ -24,7 +25,7 @@ My vim plugins are included in the /dotfiles directory
 ## dotfiles
 The dotfiles contain some config files for my tmux, vim and some key bindings(for vim) I'm using for my bash atm.
 
-  ## Here's a screenshot to bash.bashrc (This is the "Gruvbox" colorscheme for vim)
+  ## Here's a screenshot to bash.bashrc
 
    ![screenshot](Screenshot_2020-01-24-16-51-52.png)
 
