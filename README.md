@@ -11,7 +11,7 @@ This bash.bashrc2 is what my bash.bashrc looks like. It's inspired by gruvbox.vi
 ## bash.bashrc3(Night Owl theme)
 Yet another update, custom prompts and perhaps a solarized version of my own, Inspired by iceberg.vim and camo.vim theme from vim. I actually made a combination of these 2 colorschemes in my dotfiles/.vimrc and came up with a new colorscheme, and I actually quite like it to be honest.
 
-## binaries.sh
+## bash-scripts
 These simple shell scripts might just make working a lot easier.
 Copy these to usr/bin and dont forget to chmod u+x
 
@@ -25,12 +25,12 @@ My vim plugins are included in the /dotfiles directory
 ## dotfiles
 The dotfiles contain some config files for my tmux, vim and some key bindings(for vim) I'm using for my bash atm.
 
-  ## Here's a screenshot to "bash.bashrc" config for termux looks like
+  ## Here's a screenshot to "bash.bashrc" config for termux
 
    ![screenshot](Screenshot_2020-01-24-16-51-52.png)
 
 
-  ## Here's some screenshots to my gruvbox-theme termux terminal
+  ## Here's some screenshots to my gruvbox-theme inspired termux terminal
 
    ![screenshot](1.png)
    ![screenshot](2.png)
