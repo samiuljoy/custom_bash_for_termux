@@ -27,7 +27,7 @@ The dotfiles contain some config files for my tmux, vim and some key bindings(fo
 
   ## Here's a screenshot to "bash.bashrc" config for termux
 
-   ![screenshot](Screenshot_2020-01-24-16-51-52.png)
+   ![screenshot](images/Screenshot_2020-01-24-16-51-52.png)
 
 
   ## Here's some screenshots to my gruvbox-theme inspired termux terminal
