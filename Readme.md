@@ -60,4 +60,4 @@ The bash.bashrc for this is located in the dotfiles/bash.bashrc and the colors.p
   ![screenshot](dotfiles/screenshot2.png)
   
 
-## If you like what you see, feel free to support me!, you can email me at joy[dot]samiul[at]gmail[dot]com
+## If you like what you see, feel free to support me!, you can email me at joy[dot]samiul46[at]gmail[dot]com
