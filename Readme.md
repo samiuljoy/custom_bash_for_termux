@@ -8,14 +8,14 @@ Replace or copy the contents to your usr/etc/bash.bashrc.
 This bash.bashrc2 is what my bash.bashrc looks like. It's inspired by gruvbox.vim theme from vim editor.Added couple of modifications like changing the default cursor to I-beam and tons of aliases. This theme was inspired by gruvbox theme from vim
 
 
-## bash.bashrc3(Night Owl theme)
+## bash.bashrc3(Night Owl colorscheme)
 Yet another update, custom prompts and perhaps a solarized version of my own, Inspired by iceberg.vim and camo.vim theme from vim. I actually made a combination of these 2 colorschemes in my dotfiles/.vimrc and came up with a new colorscheme, and I actually quite like it to be honest.
 
 ## bash-scripts
 These simple shell scripts might just make working a lot easier.
 Copy these to usr/bin and dont forget to chmod u+x
 
-##.inputrc
+## .inputrc
 The .inputrc dotfile contains the vi key-bindings for the shell..just copy and paste it to your home(~/) and probably type in termux-reload-settings.
 
 ## Color chart 
@@ -49,7 +49,15 @@ The dotfiles contain some config files for my tmux, vim and some key bindings(fo
   ![screenshot](screenshots/mutt2.png) mutt email ![screenshot](screenshots/mutt.png)mutt email
   
   ![screenshot](screenshots/home.png) terminal home ![screenshot](screenshots/w3m.png) w3m wikipedia
+## I am using mutt as my email client and w3m as a terminal browser  
+
+## This has been my chronological improvisation of termux colorschemes lol!
+## This is inspired by solarized colorscheme of the gnome-terminal(in a puppy linux)
+     The bash.bashrc for this is located in the dotfiles/bash.bashrc and the colors.properties in dotfiles/.termux/colors.properties. Enjoy tweaking with these
+## some screenshots     
+
+  ![screemshot](dotfiles/screenshot1.png)
+  ![screenshot](dotfiles/screenshot2.png)
   
 
- ## I am using mutt as my email client and w3m as a terminal browser
 ## If you like what you see, feel free to support me!, you can email me at joy.samiul46@gmail.com
