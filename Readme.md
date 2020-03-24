@@ -40,25 +40,15 @@ The dotfiles contain some config files for my tmux, vim and some key bindings(fo
 
   ## Night-owl theme
 
-   ![screenshot](screenshots/10.png)
-   ![screenshot](screenshots/11.png)
-   ![screenshot](screenshots/12.png)
+   ![screenshot](screenshots/10.png) ![screenshot](screenshots/11.png) ![screenshot](screenshots/12.png)
    
  ## This is what my terminal looks like as of 23rd March, 2020, 17:30
 	
-  ![screenshot](screenshots/j1.png) My bashrc
-  
-  ![screenshot](screenshots/j2.png)
-  
-  ![screenshot](screenshots/j4.png)
+  ![screenshot](screenshots/j1.png) My bashrc ![screenshot](screenshots/j2.png) ![screenshot](screenshots/j4.png)
 
-  ![screenshot](screenshots/mutt2.png) mutt email
+  ![screenshot](screenshots/mutt2.png) mutt email ![screenshot](screenshots/mutt.png)mutt email
   
-  ![screenshot](screenshots/mutt.png)mutt email
-  
-  ![screenshot](screenshots/home.png) terminal home
-  
-  ![screenshot](screenshots/w3m.png) w3m wikipedia
+  ![screenshot](screenshots/home.png) terminal home ![screenshot](screenshots/w3m.png) w3m wikipedia
   
 
  ## I am using mutt as my email client and w3m as a terminal browser
