@@ -52,7 +52,7 @@ The dotfiles contain some config files for my tmux, vim and some key bindings(fo
 ## I am using mutt as my email client and w3m as a terminal browser  
 
 ## This has been my chronological improvisation of termux colorschemes lol!
-## This is inspired by solarized colorscheme of the gnome-terminal(in a puppy linux)
+## This is inspired by solarized colorscheme of the gnome-terminal
 The bash.bashrc for this is located in the dotfiles/bash.bashrc and the colors.properties in dotfiles/.termux/colors.properties. Enjoy tweaking with these
 ## some screenshots     
 
