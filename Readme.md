@@ -53,7 +53,7 @@ The dotfiles contain some config files for my tmux, vim and some key bindings(fo
 
 ## This has been my chronological improvisation of termux colorschemes lol!
 ## This is inspired by solarized colorscheme of the gnome-terminal(in a puppy linux)
-     The bash.bashrc for this is located in the dotfiles/bash.bashrc and the colors.properties in dotfiles/.termux/colors.properties. Enjoy tweaking with these
+The bash.bashrc for this is located in the dotfiles/bash.bashrc and the colors.properties in dotfiles/.termux/colors.properties. Enjoy tweaking with these
 ## some screenshots     
 
   ![screemshot](dotfiles/screenshot1.png)
