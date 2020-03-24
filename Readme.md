@@ -15,6 +15,9 @@ Yet another update, custom prompts and perhaps a solarized version of my own, In
 These simple shell scripts might just make working a lot easier.
 Copy these to usr/bin and dont forget to chmod u+x
 
+##.inputrc
+The .inputrc dotfile contains the vi key-bindings for the shell..just copy and paste it to your home(~/) and probably type in termux-reload-settings.
+
 ## Color chart 
 Also, I've added a 256 color chart to help you better understand what I'm doing here. You can match the color codes with the bash.bashrc files
 
@@ -32,11 +35,8 @@ The dotfiles contain some config files for my tmux, vim and some key bindings(fo
 
   ## Here's some screenshots to my gruvbox-theme inspired termux terminal
 
-   ![screenshot](screenshots/1.png)
-   ![screenshot](screenshots/2.png)
-   ![screenshot](screenshots/3.png)
-   ![screenshot](screenshots/4.png)
-   ![screenshot](screenshots/5.png)
+   ![screenshot](screenshots/1.png) ![screenshot](screenshots/2.png) ![screenshot](screenshots/3.png)
+   ![screenshot](screenshots/4.png) ![screenshot](screenshots/5.png)
 
   ## Night-owl theme
 
