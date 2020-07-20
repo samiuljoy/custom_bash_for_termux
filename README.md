@@ -53,5 +53,4 @@ The bash.bashrc for this is located in the dotfiles/bash.bashrc and the colors.p
   ![screenshot](dotfiles/screenshot2.png)
   
 
-## If you like what you see, feel free to support me!!
-
+## If you like what you see, feel free to support me!! My Bitcoin adress; 1A71uaHBVbL5jAVw2G1oRxPhNF9Z6XDPqr (: Enjoy!
