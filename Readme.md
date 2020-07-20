@@ -52,4 +52,4 @@ The bash.bashrc for this is located in the dotfiles/bash.bashrc and the colors.p
   ![screenshot](dotfiles/screenshot2.png)
   
 
-## If you like what you see, feel free to support me!, Donate at 1BnLVCw3vDDcEPYMic5H1172zri8xH1V3F . Enjoy!
+## If you like what you see, feel free to support me! Enjoy!
