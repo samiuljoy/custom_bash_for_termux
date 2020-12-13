@@ -45,13 +45,9 @@ Copy these to usr/bin and dont forget to chmod u+x</p>
   ![screenshot](screenshots/home.png) terminal home ![screenshot](screenshots/w3m.png) w3m wikipedia
 ## I am using mutt as my email client and w3m as a terminal browser  
 
-## This has been my chronological improvisation of termux colorschemes lol!
 ## This is inspired by solarized colorscheme of the gnome-terminal
 The bash.bashrc for this is located in the dotfiles/bash.bashrc and the colors.properties in dotfiles/.termux/colors.properties. Enjoy tweaking with these
 ## some screenshots     
 
   ![screemshot](dotfiles/screenshot1.png)
   ![screenshot](dotfiles/screenshot2.png)
-  
-
-## If you like what you see, feel free to support me!! My Bitcoin; 1A71uaHBVbL5jAVw2G1oRxPhNF9Z6XDPqr (: Enjoy!
