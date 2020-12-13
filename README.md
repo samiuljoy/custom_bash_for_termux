@@ -20,7 +20,8 @@ Copy these to usr/bin and dont forget to chmod u+x</p>
 <p>The .inputrc dotfile contains the vi key-bindings for the shell..just copy and paste it to your home(~/) and probably type in termux-reload-settings.</p>
 
 <h2>Color chart</h2>
-<p>Also, I've added a 256 color chart to help you better understand what I'm doing here. You can match the color codes with the bash.bashrc files</p>
+<p>Also, I've added a 256 color chart to help you better understand what colors are defined here.</p>
+<img src="screenshots/256_color_chart.png"></img>
 <h2>Vim Plugins</h2>
 <p>My vim plugins are included in the /dotfiles directory</p>
 <h2>dotfiles</h2>
