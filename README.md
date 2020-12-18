@@ -51,3 +51,5 @@ The bash.bashrc for this is located in the dotfiles/bash.bashrc and the colors.p
 
   ![screemshot](dotfiles/screenshot1.png)
   ![screenshot](dotfiles/screenshot2.png)
+
+Feel free to support at [bitcoin] 13erq7DDXDuqqBohht3UNyuJCXtpJcWGSe
